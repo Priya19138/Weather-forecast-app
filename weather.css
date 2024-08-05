@@ -1,0 +1,53 @@
+.info{
+     
+        width:100vw;
+        height:100vh;
+        display:flex;
+        flex-direction:column;
+        gap:20px;
+        justify-content: center;
+        align-items: center;
+        border: 12px solid white;
+        border-radius: 8px;
+        background-color:rgb(241, 223, 85);
+   
+        padding: 20px;
+   
+    }
+    .infor{
+        width:300px;
+        height:250px;
+        display:flex;
+        flex-direction:column;
+        gap:10px;
+        justify-content: center;
+        align-items: center;
+   
+        background-color: rgba(90, 88, 88, 0.716);
+   
+        padding: 20px;
+   
+        color:white;
+   
+        opacity: 1;
+   
+    }
+    .inform{
+    width:300px;
+    height:40px;
+    border-radius: 8px;
+    background-color: rgb(253, 248, 242);
+    text-emphasis-color:black;
+    box-shadow: 0 0 10px rgba(45, 46, 47, 0.3);
+   
+    }
+    .middata{
+   
+    color:white;
+    }
+    .visib{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+    }
+     
